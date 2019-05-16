@@ -20,8 +20,8 @@ echo "#############################################################"
 echo
 
 libsodium_file="libsodium-1.0.17"
-#libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.17/libsodium-1.0.17.tar.gz"
-libsodium_url="https://github-production-release-asset-2e65be.s3.amazonaws.com/7710647/dc1c7380-1270-11e9-8988-73d1f4f8e639?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190516T052856Z&X-Amz-Expires=300&X-Amz-Signature=39c6ace735a58cc01d185d36d36213dea15c6532948b509cd7d6bf8098752309&X-Amz-SignedHeaders=host&actor_id=19601596&response-content-disposition=attachment%3B%20filename%3Dlibsodium-1.0.17.tar.gz&response-content-type=application%2Foctet-stream"
+libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.17/libsodium-1.0.17.tar.gz"
+#libsodium_url="https://github-production-release-asset-2e65be.s3.amazonaws.com/7710647/dc1c7380-1270-11e9-8988-73d1f4f8e639?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190516T052856Z&X-Amz-Expires=300&X-Amz-Signature=39c6ace735a58cc01d185d36d36213dea15c6532948b509cd7d6bf8098752309&X-Amz-SignedHeaders=host&actor_id=19601596&response-content-disposition=attachment%3B%20filename%3Dlibsodium-1.0.17.tar.gz&response-content-type=application%2Foctet-stream"
 shadowsocks_r_file="shadowsocksr-3.2.2"
 shadowsocks_r_url="https://github.com/shadowsocksrr/shadowsocksr/archive/3.2.2.tar.gz"
 
